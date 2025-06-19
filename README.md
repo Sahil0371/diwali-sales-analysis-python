@@ -37,4 +37,4 @@ The primary objective of this project was to analyze Diwali sales data and uncov
 • **Top Products:** A few specific product IDs stood out with the highest number of orders.  
 
 # ***Conclusion***
-This project, built entirely in Python using Jupyter Notebook, demonstrates the power of EDA in deriving real business insights. It highlights that married women aged 26–35 from top states like UP, Maharashtra, and Karnataka, working in IT, Healthcare, or Aviation, are the key customers during Diwali. Their purchases were concentrated in Food, Clothing, and Electronics—which can help businesses plan inventory and marketing strategies during festive seasons.  
+This project, built entirely in Python using Jupyter Notebook, demonstrates the power of EDA in deriving real business insights. It highlights that married women aged 26–35 from top states like UP, Maharashtra, and Karnataka, working IT, Healthcare, or Aviation, are the key customers during Diwali. Their purchases were concentrated in Food, Clothing, and Electronics—which can help businesses plan inventory and marketing strategies during festive seasons.  
