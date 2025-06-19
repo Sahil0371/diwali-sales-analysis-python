@@ -25,10 +25,6 @@ The primary objective of this project was to analyze Diwali sales data and uncov
    • Identified top 10 best-selling products by total orders    
    • Analyzed top contributing product categories (Food, Clothing, Electronics)    
    • Investigated revenue concentration in key product areas    
-
-6. **Conclusion Building:**  
-   • Summarized key insights into buyer demographics and product trends    
-   • Highlighted high-potential customer segments and states for marketing focus    
-   • Presented all findings in a structured format to support business decisions    
+ 
 # *** ***    
 # *** ***    
